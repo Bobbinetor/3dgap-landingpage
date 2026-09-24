@@ -1,0 +1,185 @@
+3D GAP
+BUSINESS PLAN
+Manifattura Additiva Avanzata e Prototipazione Rapida Premium
+Data: Anno 2026
+Focus: Mercato Nazionale (B2B/Digital) e Regionale (Campania Face-to-Face)
+Autore: Direzione Generazione S.r.l. / 3D GAP
+3D GAP - Business Plan 2026 1
+1. Executive Summary
+1.1 Profilo Aziendale e Mission
+3D GAP è un service di manifattura additiva avanzata e prototipazione rapida ad alta tecnologia. La nostra
+missione è colmare il divario ("the gap") tra l'idea digitale e l'oggetto fisico, offrendo ad uffici tecnici, brand,
+negozi, ristorazione e studenti un'esperienza di produzione premium, trasparente e focalizzata sulla massima
+qualità strutturale ed estetica.
+Ci ispiriamo alla filosofia di design e interazione di Apple: eliminazione delle barriere burocratiche e dei
+processi di preventivazione obsoleti a favore di un'interfaccia utente fluida, immediata e guidata da un
+configuratore digitale visivo. Non ci proponiamo come una semplice "copisteria 3D", ma come un partner di
+posizionamento d'eccellenza.
+1.2 Capacità Produttiva e Tecnologie
+L'azienda dispone di un parco macchine proprietario già interamente ottimizzato, ammortizzato e pronto a
+rispondere alle richieste del mercato senza necessità di ulteriori investimenti strutturali e capitali iniziali
+(CapEx pari a zero per la produzione). La capacità produttiva iniziale è articolata su due pilastri tecnologici
+complementari:
+•
+FDM (Fused Deposition Modeling): Tecnologia di punta dell'azienda, operata tramite un ecosistema di 4
+stampanti a filamento dedicate alla produzione di parti resistenti, gadget in serie, componenti funzionali
+ed elementi d'arredo o commerciali ad alto volume.
+•
+LCD (Liquid Crystal Display / Resina): Operata tramite 1 stampante a resina ad alta risoluzione,
+dedicata alla produzione di modelli ad altissimo dettaglio estetico, superfici perfettamente lisce e particolari
+privi di layer visibili per il settore del design, del luxury retail e dei progetti universitari avanzati.
+1.3 Target Geografico e Strategia Canali
+3D GAP adotta una strategia di posizionamento ibrida che massimizza la conversione digitale e la
+fidelizzazione sul territorio:
+•
+•
+Scala Nazionale (Digital-First): Attraverso la piattaforma web proprietaria, 3D GAP si rivolge all'intero
+territorio italiano, intercettando la domanda online di agenzie, aziende e professionisti che cercano un
+servizio rapido, chiaro nel pricing e impeccabile nell'esperienza d'uso.
+Scala Regionale (Face-to-Face in Campania): L'azienda focalizza sul territorio campano la propria
+strategia di networking diretto, offrendo un'esperienza consulenziale completa, incontri di persona per la
+validazione dei progetti e la presentazione fisica di campionature materiali, costruendo legami commerciali
+duraturi basati sulla fiducia con le realtà commerciali e della ristorazione locale.
+3D GAP - Business Plan 2026 2
+1.4 Sintesi Finanziaria
+Avendo azzerato i costi di acquisizione dei macchinari, il fabbisogno finanziario iniziale per il lancio di 3D GAP
+è stimato in 8.000 €, interamente allocato in asset intangibili e di marketing (sviluppo web avanzato con
+transizioni fluidi, asset multimediali macro per i materiali ed investimenti Ads). Il Break-Even Point è
+raggiungibile già nei primi mesi con la saturazione di una frazione minima delle ore macchina disponibili.
+3D GAP - Business Plan 2026 3
+2. Analisi di Mercato e Target
+2.1 Trend del Mercato della Stampa 3D
+Il mercato della manifattura additiva in Italia è ormai maturo: le aziende e i commercianti non cercano più
+l'effetto novità, ma soluzioni concrete a problemi di personalizzazione e time-to-market. I service tradizionali si
+dividono tra grandi colossi digitali totalmente impersonali e piccoli laboratori amatoriali locali privi di
+un'immagine di affidabilità o di canali di vendita moderni. 3D GAP si posiziona esattamente in questa lacuna:
+l'efficienza automatizzata di un grande portale unita alla cura del dettaglio, consulenza ed esclusività del
+servizio sartoriale.
+2.2 Segmentazione del Target (Le tre Buyer Personas)
+Sulla base dello storico di collaborazioni e delle reali necessità espresse dal mercato, 3D GAP focalizza le
+sue vendite iniziali su tre segmenti principali ad alto margine:
+1. Il B2B Commerciale e HoReCa (Negozi, Franchising, Ristorazione)
+Titolari di attività commerciali e della ristorazione (in primis di fascia alta in Campania) che desiderano
+elementi di brand identity unici ed esclusivi per differenziarsi dalla concorrenza. Gli oggetti d'interesse
+includono portaconti coordinati, segnaposti di design, menù rigidi con dettagli tridimensionali, espositori da
+banco minimalisti, oggettistica personalizzata per il servizio al tavolo.
+2. Il Corporate Gadget (Aziende e Startup per Eventi/Fiere)
+Aziende su tutto il territorio nazionale alla ricerca di merchandising aziendale o regali VIP che si distacchino
+dai cataloghi standard d'importazione. Richiedono lotti medio-piccoli (50-200 pezzi) di oggetti di design,
+organizer da scrivania geometrici o accessori tech logati con altissima qualità percepita.
+3. Educational e Progetti (Scuole, Università e Studenti)
+Studenti dei dipartimenti di Architettura, Design, Belle Arti e Ingegneria (con forte presenza locale nelle
+università campane come la Federico II o la Vanvitelli) che necessitano di plastici per tesi, prototipi d'esame o
+modelli concettuali complessi, e che cercano assistenza nel controllo dei file 3D e tariffe accessibili.
+3D GAP - Business Plan 2026 4
+3. Piano Operativo e Scalabilità
+3.1 Flusso di Lavoro (Workflow Operativo Premium)
+Il percorso di evasione di un ordine all'interno del laboratorio di 3D GAP segue un protocollo standardizzato
+per garantire l'efficienza industriale e l'estetica desiderata:
+•
+•
+•
+•
+Fase 1 - Onboarding e File Checking: Il cliente carica il file (STL/STEP) o l'asset grafico 2D (PNG/
+vettoriale del logo) tramite la piattaforma. 3D GAP offre il servizio di modellazione/estrusione per
+trasformare loghi piani in splendidi oggetti tridimensionali.
+Fase 2 - Schedulazione e Ottimizzazione: Le commesse vengono raggruppate per tecnologia, colore e
+tipo di filamento/resina per minimizzare i tempi morti di setup. I 4 moduli FDM lavorano in parallelo
+(parallelizzazione del 75% del tempo di produzione sui grandi lotti).
+Fase 3 - Post-Processing: Rimozione manuale e pneumatica dei supporti, trattamento UV e lavaggio
+isopropilico per il comparto resina, e controlli di tolleranza geometrica per garantire l'accoppiamento
+perfetto delle parti.
+Fase 4 - Packaging e Spedizione: Confezionamento in scatole d'ispirazione minimale con brand identity
+curata, per preservare l'esperienza tattile sin dal momento dell'unboxing.
+3.2 Roadmap di Scalabilità e Sviluppo Futuro
+La crescita aziendale è strutturata in 3 fasi consecutive, autofinanziate dai flussi di cassa generati dai
+segmenti iniziali:
+Fase Orizzonte
+Temporale Settore Target Tecnologia ed Investimenti
+Fase
+1
+Anno 1 Ristorazione, Retail,
+Gadget, Università
+Ottimizzazione parco macchine esistente (4 FDM +
+1 LCD). Creazione brand e sito web.
+Fase
+2
+Anno 2 Product Design, Interior
+Design
+Acquisto stampanti FDM di grande formato (es.
+400mm³). Uso di bio-compositi (legno, marmo).
+Fase
+3
+Anno 3+ Industria, Automotive,
+Robotica
+Introduzione stampanti a camera calda (Carbonio
+avanzato, ASA) e sistemi professionali SLS a
+polvere.
+3D GAP - Business Plan 2026 5
+4. Strategia di Marketing e Vendita
+4.1 Inbound Marketing Nazionale (Online)
+L'acquisizione dei clienti nazionali sfrutta il forte impatto visivo del brand:
+•
+•
+•
+Digital Platform: Landing page con transizioni fluide Dark/Light Mode e selettori interattivi "Tactile
+Material" per comprendere la finitura dei materiali a schermo.
+Content Factory (Social ed Estetica):** Video timelapse in loop e macro ad alta definizione a 60fps
+(Reels, TikTok) focalizzati sulla "magia" della materia che prende forma dal liquido o dallo
+stratificarsi del filamento.
+SEO e LinkedIn: Contenuti indicizzati per parole chiave di nicchia e post rivolti a manager HR o
+direttori marketing incentrati sull'esclusività dei corporate gadget custom.
+4.2 Strategia Outbound Locale (Campania Face-to-Face)
+La penetrazione commerciale del tessuto imprenditoriale campano avviene tramite l'introduzione
+della "3D GAP Experience Box". Si tratta di un kit di presentazione fisico, minimale e curatissimo,
+contenente campioni geometrici reali dei materiali aziendali (Carbonio, Resina Pro Liscia, Filamenti
+Silk).
+La box viene utilizzata come "Cavallo di Troia" commerciale: prima dell'incontro con un ristoratore o
+negoziante di fascia alta, il team di 3D GAP realizza un micro-prototipo personalizzato con il logo del
+potenziale cliente, inserendolo all'interno della box per generare un immediato effetto stupore e
+dimostrare l'impatto tangibile del servizio.
+4.3 Politica di Pricing
+Il prezzo non viene basato sulla vendita al grammo, bensì sulla formula del valore tecnologico:
+Prezzo = Costo Materiale + (Ore Macchina × Tariffa Oraria) + Valore Consulenza/Setup
+La tariffa oraria interna è fissata a 4.00 ext{ \euro/ora} per la tecnologia FDM e 6.00 ext{ \euro/ora} per la
+tecnologia a Resina LCD. Le tariffe per i progetti educational vengono scontate per coprire i tempi
+morti o i cicli di stampa notturni.
+5. Piano Finanziario e Break-Even
+3D GAP - Business Plan 2026 6
+5.1 Struttura dei Costi Reali (Scenario 2026)
+I costi vivi della materia prima sul mercato risultano estremamente contenuti, lasciando ampi margini
+per la copertura delle spese operative e di marketing:
+•
+Costo PLA Standard: ~15,00 € / kg → 0.015 ext{ \euro/g}
+•
+Costo Resina Standard LCD: ~25,00 € / Litro → 0.025 ext{ \euro/ml}
+•
+Costo Materiali Tecnici/Avanzati (ASA/PETG Spec.): ~35,00 € / kg → 0.035 ext{ \euro/g}
+•
+Costo Materiali Caricati (Nylon-Carbonio/Bio): ~60,00 € / kg → 0.060 ext{ \euro/g}
+Costi Fissi Mensili di Gestione:
+•
+•
+•
+•
+•
+•
+Budget Ads di Lancio (Google/Meta): 300 €
+Abbonamenti Software (Slicing, CAD, Hosting Server): 70 €
+Energia Elettrica di Base e Connettività: 80 €
+Fondo Manutenzione Macchine (Ugelli, FEP, Ricambi): 50 €
+Commercialista e Oneri Burocratici: 100 €
+TOTALE COSTI FISSI MENSILI: 600 €
+5.2 Analisi del Break-Even Point (Punto di Pareggio)
+Considerando una tariffa oraria media ponderata di vendita pari a 4.50 ext{ \euro/ora} ed escludendo
+l'impatto trascurabile del materiale (che viene interamente ricaricato ed incide per meno del 10% sul
+prezzo finale), il calcolo delle ore di stampa necessarie a coprire i costi fissi mensili è il seguente:
+Ore di Stampa per Pareggio = rac{600 ext{ \euro}}{4.50 ext{ \euro/ora}} pprox 133 ext{ ore al mese}
+Il parco macchine di 3D GAP (5 stampanti totali attive) garantisce una capacità produttiva teorica
+massima mensile di 3.600 ore di stampa (24 ext{ ore} imes 30 ext{ giorni} imes 5 ext{ macchine}).
+Di conseguenza, per raggiungere il punto di pareggio operativo e coprire integralmente le spese fisse
+e di marketing, all'azienda è richiesto di saturare soltanto il 3.7% della propria capacità produttiva
+totale (pari a circa 133 ore mensili complessive). Qualsiasi commessa evasa oltre questa soglia
+minima genera un utile netto aziendale vicino all'80-90% del valore del fatturato, confermando
+l'elevata sostenibilità e scalabilità del modello di business.
+3D GAP - Business Plan 2026 7
