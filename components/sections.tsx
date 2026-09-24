@@ -6,6 +6,8 @@ import { useRef } from "react";
 import { Reveal, SectionHeading } from "./ui";
 import MaterialSelector from "./material-selector";
 
+const basePath = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
+
 const quoteItems = [
   {
     title: "Preventivo per privati",
@@ -71,7 +73,7 @@ const catalogItems = [
     title: "Gadget con logo",
     text: "Portachiavi, token, stand piccoli e oggetti evento configurabili per quantità, colore e dimensione.",
     meta: "Ideale per fiere e regali aziendali",
-    image: "/images/generated/product-keychain.jpg",
+         image: `${basePath}/images/generated/product-keychain.jpg`,
     alt: "Portachiavi blu stampati in 3D",
     options: ["quantità", "colore", "diametro"],
   },
@@ -79,7 +81,7 @@ const catalogItems = [
     title: "Supporti e organizer",
     text: "Stand da scrivania, supporti tech e accessori funzionali modificabili in larghezza, altezza e inclinazione.",
     meta: "Per ufficio, casa e setup tech",
-    image: "/images/generated/product-phone-stand.jpg",
+         image: `${basePath}/images/generated/product-phone-stand.jpg`,
     alt: "Supporto smartphone nero stampato in 3D",
     options: ["dimensioni", "angolo", "materiale"],
   },
@@ -87,7 +89,7 @@ const catalogItems = [
     title: "Espositori da banco",
     text: "Supporti per menù, QR code, prodotti retail o materiale promozionale in formato personalizzato.",
     meta: "Per negozi, ristoranti e showroom",
-    image: "/images/generated/product-display-stand.jpg",
+         image: `${basePath}/images/generated/product-display-stand.jpg`,
     alt: "Espositore bianco da banco stampato in 3D",
     options: ["base", "altezza", "colore"],
   },
@@ -95,7 +97,7 @@ const catalogItems = [
     title: "Pezzi su file",
     text: "Stampe singole o piccole serie partendo dal tuo modello 3D, con controllo file prima della produzione.",
     meta: "Per privati, maker e studenti",
-    image: "/images/generated/product-architecture.jpg",
+         image: `${basePath}/images/generated/product-architecture.jpg`,
     alt: "Modello architettonico grigio stampato in 3D",
     options: ["scala", "materiale", "pezzi"],
   },

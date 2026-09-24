@@ -2,6 +2,8 @@
 
 import Image from "next/image";
 import { motion, useScroll, useTransform } from "motion/react";
+
+const basePath = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
 import { useRef } from "react";
 
 const easeFluid = [0.22, 1, 0.36, 1] as const;
@@ -158,7 +160,7 @@ export default function Hero() {
           <div className="absolute inset-x-2 bottom-0 h-[76%] rounded-[2rem] bg-[linear-gradient(180deg,#e0f2fe,#ffffff)] shadow-[0_28px_80px_-48px_rgba(3,105,161,0.55)]" />
           <div className="absolute inset-x-10 bottom-0 h-[58%] rounded-t-[999px] bg-[var(--accent)]/10 blur-3xl" />
           <Image
-            src="/images/generated/hero-person.png"
+             src={`${basePath}/images/generated/hero-person.png`}
             alt="Persona che mostra un vaso stampato in 3D"
             width={1024}
             height={1536}

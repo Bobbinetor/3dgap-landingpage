@@ -4,6 +4,8 @@ import Image from "next/image";
 import { motion } from "motion/react";
 import { useState } from "react";
 
+const basePath = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
+
 type Material = {
   id: string;
   name: string;
@@ -19,7 +21,7 @@ const MATERIALS: Material[] = [
     id: "pla",
     name: "PLA",
     tech: "FDM",
-    image: "/images/generated/texture-pla.jpg",
+    image: `${basePath}/images/generated/texture-pla.jpg`,
     claim: "Estetico e conveniente",
     use: "Gadget, prototipi estetici, pezzi da interno.",
     details: ["Molti colori", "Buona resa visiva", "Calore basso: 55-60 C"],
@@ -28,7 +30,7 @@ const MATERIALS: Material[] = [
     id: "petg",
     name: "PETG",
     tech: "FDM",
-    image: "/images/generated/texture-petg.jpg",
+    image: `${basePath}/images/generated/texture-petg.jpg`,
     claim: "Resistente nell'uso",
     use: "Supporti, contenitori e parti funzionali.",
     details: ["Piu tenace del PLA", "Buona umidita", "Calore: 75-85 C"],
@@ -37,7 +39,7 @@ const MATERIALS: Material[] = [
     id: "asa",
     name: "ASA",
     tech: "FDM",
-    image: "/images/generated/texture-asa.jpg",
+    image: `${basePath}/images/generated/texture-asa.jpg`,
     claim: "Pensato per esterno",
     use: "Insegne, staffe e parti esposte a sole.",
     details: ["Stabile ai raggi UV", "Finitura tecnica", "Calore: 90-100 C"],
@@ -46,7 +48,7 @@ const MATERIALS: Material[] = [
     id: "resina",
     name: "Resina",
     tech: "Resina",
-    image: "/images/generated/texture-resin.jpg",
+    image: `${basePath}/images/generated/texture-resin.jpg`,
     claim: "Dettaglio molto alto",
     use: "Miniature, modelli piccoli, superfici pulite.",
     details: ["Superfici lisce", "Volumi ridotti", "Post-processing incluso"],
@@ -55,7 +57,7 @@ const MATERIALS: Material[] = [
     id: "carbonio",
     name: "Carbonio",
     tech: "FDM",
-    image: "/images/generated/texture-carbon.jpg",
+    image: `${basePath}/images/generated/texture-carbon.jpg`,
     claim: "Tecnico e rigido",
     use: "Componenti meccanici e parti strutturali.",
     details: ["Alta rigidita", "Finitura opaca", "Costo superiore"],
